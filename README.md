@@ -1,2 +1,3 @@
 # MME-blockchain
-meta media ecology research project
+
+researching blockchain technology, the new crypographic ledger behind all of the cryptocurrencies 
